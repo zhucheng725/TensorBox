@@ -21,5 +21,6 @@ parser.add_argument('--min_conf', default=0.98, type=float)
 parser.add_argument('--show_suppressed', default=False, type=bool)
 ```
 if you want<br>
+My PC(nvidia gtx 1060 tf==1.14.0 keras==2.2.4 cuda10.2)
 
 ![image](https://github.com/zhucheng725/TensorBox/blob/main/data/testdata/result_0.jpg)
