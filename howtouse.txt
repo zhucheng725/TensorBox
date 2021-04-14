@@ -1,0 +1,4 @@
+python2 evaluate_lift.py --weights output/ckpt/save.ckpt-10000  --min_conf 0.95
+
+input_dir : /home/kirito/procedure/TensorBox/data/testdata/img/
+output_dir: /home/kirito/procedure/TensorBox/data/testdata/
