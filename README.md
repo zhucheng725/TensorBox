@@ -15,6 +15,5 @@ imname = '/media/kirito/1T/procedure/TensorBox/data/testdata/result_'+ str(i) +'
 cv2.imwrite(imname, new_img)
 ```
 
-input_dir : /home/kirito/procedure/TensorBox/data/testdata/img/
-output_dir: /home/kirito/procedure/TensorBox/data/testdata/
+
 
