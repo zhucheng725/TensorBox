@@ -1,5 +1,7 @@
 # TensorBox
-Thanks to http://github.com/russell91/tensorbox and backup here in order to  study easily.(https://arxiv.org/abs/1506.04878)(End-to-end people detection in crowded scenes)<br>
+Thanks to http://github.com/russell91/tensorbox and backup here in order to  study easily.<br>
+(https://arxiv.org/abs/1506.04878)<br>
+(End-to-end people detection in crowded scenes)<br>
 ```
 1.git clone https://github.com/zhucheng725/TensorBox
 2.cd Tensorbox
