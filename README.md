@@ -15,5 +15,7 @@ imname = '/media/kirito/1T/procedure/TensorBox/data/testdata/result_'+ str(i) +'
 cv2.imwrite(imname, new_img)
 ```
 
+My PC(nvidia gtx 1060 , cuda10.2, tensorflow_gpu == 1.14.0, keras ==2.2.4)
+
 
 
