@@ -14,6 +14,7 @@ img1_path = '/media/kirito/1T/procedure/TensorBox/data/testdata/img/'+str(i) + '
 imname = '/media/kirito/1T/procedure/TensorBox/data/testdata/result_'+ str(i) +'.jpg'
 cv2.imwrite(imname, new_img)
 ```
+![image](https://github.com/zhucheng725/MobileNetv1_Segnet_keras_tensorrt/blob/master/result.jpg)
 
 My PC(nvidia gtx 1060 , cuda10.2, tensorflow_gpu == 1.14.0, keras ==2.2.4)
 
